@@ -19,6 +19,9 @@ Introduction to Algorithms (3rd edition) - Thomas H. Cormen, Charles E. Leiserso
 
 # 📚 Reading Now
 
-Clean Code - Robert Martin 67/462   
-
 # ✅ Finished Reading
+
+# 🫗 Dropped
+
+Clean Code - Robert Martin 74/462   
+
