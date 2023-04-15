@@ -15,7 +15,7 @@ Introduction to Algorithms (3rd edition) - Thomas H. Cormen, Charles E. Leiserso
 
 # 📚 Reading Now
 
-The Pragmatic Programmer - Andrew Hunt, David Thomas 1/253   
+The Pragmatic Programmer - Andrew Hunt, David Thomas 7/253   
 
 # ✔️ Finished Reading
 
