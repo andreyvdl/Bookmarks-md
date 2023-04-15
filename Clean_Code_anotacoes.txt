@@ -27,3 +27,6 @@ throws InvalidEmployeeType {
 ```
 Aparentemente essa função faz mais de 1 coisa...
 	pelo q li (e olha q n sei nada de java) essa função calcula o pagamento de funcionario `e` com base em q tipo de funcionário ele é... se n for um tipo válido ele chama a função de tipo invalido... pra mim essa função parece perfeitamente simples e compreensível.
+	
+"Choosing good names for a function can go a long way toward explaining the intent of the function and the order and intent of the arguments. In the case of a monad, the function and argument should form a very nice verb/noun pair. For example, write(name) is very evocative. Whatever this 'name' thing is, it is being 'written.'"
+	... COMO ASSIM "SEJA O Q NOME É, ESTÁ SENDO ESCRITO"? NOME É NOME! VOCÊ TÁ ESCREVENDO UM NOME AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!111111
