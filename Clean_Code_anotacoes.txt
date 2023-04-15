@@ -9,3 +9,21 @@ Funções devem fazer uma coisa e apenas 1 coisa...
 	"Look at Listing 4-7 on page 71. Notice that the generatePrimes function is divided into sections such as declarations, initializations, and sieve. This is an obvious symptom of doing more than one thing. Functions that do one thing cannot be reasonably divided into sections."
 	... OK DA PRÓXIMA VEZ Q FOR FAZER UM STRLEN VOU GARANTIR DE CRIAR UMA FUNÇÃO PRA INICIALIZAR O CONTADOR, OUTRA Q ANDA PELA STRING E DENTRO DELA UMA Q RETORNA O TAMANHO DA STRING ANDADA E QUANDO VOLTAR PRA STRLEN UMA Q RETORNA O AS OUTRAS RETORNAM.
 	N é 100x melhor e mais otimizado do q só inicializar o contador, andar pela string e retornar o contador?
+	
+```Java
+public Money calculatePay(Employee e)
+throws InvalidEmployeeType {
+	switch (e.type) {
+		case COMMISSIONED:
+			return calculateCommissionedPay(e);
+		case HOURLY:
+			return calculateHourlyPay(e);
+		case SALARIED:
+			return calculateSalariedPay(e);
+ 		default:
+			throw new InvalidEmployeeType(e.type);
+	}
+}
+```
+Aparentemente essa função faz mais de 1 coisa...
+	pelo q li (e olha q n sei nada de java) essa função calcula o pagamento de funcionario `e` com base em q tipo de funcionário ele é... se n for um tipo válido ele chama a função de tipo invalido... pra mim essa função parece perfeitamente simples e compreensível.
