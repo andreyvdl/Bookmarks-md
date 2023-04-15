@@ -6,9 +6,7 @@ Bash Notes for Professionals - Many Authors
 The Passionate Programmer (2nd edition) - Chad Fowler   
 C Notes for Professionals - Many Authors   
 Git Notes for Professionals - Many Authors   
-The Art of Game Design: A Book of Lenses - Jesse Schell   
 Rules of Play Game Design - Katie Salen, Eric Zimmerman   
-The Art of Deception - Kevin Mitnick   
 Linux Notes for Professionals - Many Authors   
 Perl Notes for Professionals - Many Authors   
 A Theory of Fun for Game Design - Raph Koster   
