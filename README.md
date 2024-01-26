@@ -12,11 +12,11 @@ An Introduction to the Analysis of Algorithms - Robert Sedgewick, Philippe Flajo
 Level Up! The Guide to Great Video Game Design - Scott Rogers   
 Code Complete (2nd edition) - Steve McConnell   
 Introduction to Algorithms (3rd edition) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein   
+The Pragmatic Programmer 2nd Edition - Andrew Hunt, David Thomas 0/497
 
 # 📚 Reading Now
 
 The Pragmatic Programmer - Andrew Hunt, David Thomas 193/348    
-The Pragmatic Programmer 2nd Edition - Andrew Hunt, David Thomas 32/497
 
 # ✔️ Finished Reading
 
