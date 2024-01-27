@@ -16,7 +16,7 @@ The Pragmatic Programmer 2nd Edition - Andrew Hunt, David Thomas 0/497
 
 # 📚 Reading Now
 
-The Pragmatic Programmer - Andrew Hunt, David Thomas 193/348    
+The Pragmatic Programmer - Andrew Hunt, David Thomas 218/348    
 
 # ✔️ Finished Reading
 
