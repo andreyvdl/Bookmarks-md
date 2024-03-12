@@ -1,11 +1,10 @@
 # ⏳ Plan2Read
 
-Code Complete (2nd edition) - Steve McConnell   
 The Pragmatic Programmer 2nd Edition - Andrew Hunt, David Thomas 0/497
 
 # 📚 Reading Now
 
-The Passionate Programmer (2nd edition) - Chad Fowler 0/218
+Code Complete (2nd edition) - Steve McConnell 0/952 
 
 # ✔️ Finished Reading
 
