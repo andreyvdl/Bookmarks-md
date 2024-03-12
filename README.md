@@ -5,7 +5,7 @@ The Pragmatic Programmer 2nd Edition - Andrew Hunt, David Thomas 0/497
 
 # 📚 Reading Now
 
-The Passionate Programmer (2nd edition) - Chad Fowler   
+The Passionate Programmer (2nd edition) - Chad Fowler 0/218
 
 # ✔️ Finished Reading
 
