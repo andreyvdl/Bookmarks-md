@@ -1,7 +1,6 @@
 # ⏳ Plan2Read
 
 14 Hábitos de Desenvolvedores Altamente Produtivos - Zeno Rocha 0/106  
-De Dev a Tech Lead - Eduardo Matos 0/178  
 Estruturas de Dados e Algoritmos com JavaScript - Loiane Groner 0/449  
 Scrum - a arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland 0/190  
 The Art of Deception - Kevin Mitnick 0/346  
@@ -20,4 +19,5 @@ The Pragmatic Programmer - Andrew Hunt, David Thomas 348/348
 
 Clean Code - Robert Martin 74/462   
 Code Complete (2nd edition) - Steve McConnell 155/952 
+De Dev a Tech Lead - Eduardo Matos 12/178 (Maybe i will read it later)  
 
