@@ -18,6 +18,5 @@ The Pragmatic Programmer - Andrew Hunt, David Thomas 348/348
 # 🫗 Dropped
 
 Clean Code - Robert Martin 74/462   
-Code Complete (2nd edition) - Steve McConnell 155/952 
+Code Complete (2nd edition) - Steve McConnell 155/952  
 De Dev a Tech Lead - Eduardo Matos 12/178 (Maybe i will read it later)  
-
