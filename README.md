@@ -11,8 +11,8 @@ The Rust Programming Language 2nd Edition (Rust 2021) - Steve Klabnik, Carol Nic
 
 # ✔️ Finished Reading
 
-The Pragmatic Programmer - Andrew Hunt, David Thomas 348/348 - 5/5
-Scrum - a arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland 190/190 - 1/5 
+The Pragmatic Programmer - Andrew Hunt, David Thomas 348/348 - 5/5  
+Scrum - a arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland 190/190 - 1/5  
 
 # 🫗 Dropped
 
