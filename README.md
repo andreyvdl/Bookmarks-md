@@ -13,7 +13,7 @@ Arquitetura Limpa | Robert Martin | 0/435
 
 Name | Author | Pages | Score
 --- | --- | --- | ---
-The Pragmatic Programmer | Andrew Hunt, David Thomas | 348/348 | 10/10  
+The Pragmatic Programmer | Andrew Hunt, David Thomas | 348/348 | 5/5  
 Scrum - a arte de fazer o dobro do trabalho na metade do tempo | Jeff Sutherland | 190/190 | 1/5  
 14 Hábitos de Desenvolvedores Altamente Produtivos | Zeno Rocha | 106/106 | 5/5  
 
