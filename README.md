@@ -8,6 +8,8 @@ Arquitetura Limpa | Robert Martin | 0/435
 
 # 📚 Reading Now
 
+Name | Author | Pages
+--- | --- | ---
 
 # ✔️ Finished Reading
 
