@@ -9,7 +9,7 @@ The Pragmatic Programmer 2nd Edition | Andrew Hunt, David Thomas | 0/497
 
 Name | Author | Pages
 --- | --- | ---
-Arquitetura Limpa | Robert Martin | 0/435
+Arquitetura Limpa | Robert Martin | 19/435
 
 # ✔️ Finished Reading
 
