@@ -2,7 +2,6 @@
 
 Name | Author | Pages
 --- | --- | ---
-Estruturas de Dados e Algoritmos com JavaScript | Loiane Groner | 0/449  
 The Pragmatic Programmer 2nd Edition | Andrew Hunt, David Thomas | 0/497  
 
 # 📚 Reading Now
