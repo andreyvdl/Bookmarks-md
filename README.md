@@ -9,7 +9,7 @@ The Pragmatic Programmer 2nd Edition | Andrew Hunt, David Thomas | 0/497
 
 Name | Author | Pages
 --- | --- | ---
-Arquitetura Limpa | Robert Martin | 19/435
+
 
 # ✔️ Finished Reading
 
@@ -27,3 +27,4 @@ Clean Code | Robert Martin | 74/462
 Code Complete (2nd edition) | Steve McConnell | 155/952  
 De Dev a Tech Lead | Eduardo Matos | 12/178  
 The Art of Deception | Kevin Mitnick | 5/346  
+Arquitetura Limpa | Robert Martin | 50/435  
