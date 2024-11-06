@@ -3,7 +3,7 @@
 Name | Author | Pages
 --- | --- | ---
 The Pragmatic Programmer 2nd Edition | Andrew Hunt, David Thomas | 0/497  
-The practice of Programming | Brian W. Kernihan, Rob Pike | 0/280
+The practice of Programming | Brian W. Kernihan, Rob Pike | 0/280  
 
 # 📚 Reading Now
 
