@@ -18,6 +18,7 @@ Name | Author | Pages | Score
 The Pragmatic Programmer | Andrew Hunt, David Thomas | 348/348 | 5/5  
 Scrum - a arte de fazer o dobro do trabalho na metade do tempo | Jeff Sutherland | 190/190 | 1/5  
 14 Hábitos de Desenvolvedores Altamente Produtivos | Zeno Rocha | 106/106 | 5/5  
+C Notes for Professionals | many authors from StackOverflow | 342/342 | 4/5
 
 # 🫗 Dropped
 
