@@ -9,6 +9,7 @@ The practice of Programming | Brian W. Kernihan, Rob Pike | 0/280
 Name | Author | Pages
 --- | --- | ---
 The Pragmatic Programmer 2nd Edition | Andrew Hunt, David Thomas | 152/497  
+C++ Notes for Professionals | many authors from Stackoverflow | 329/708   
 
 
 # ✔️ Finished Reading
