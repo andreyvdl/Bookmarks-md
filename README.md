@@ -8,7 +8,6 @@ Name | Author | Pages
 Name | Author | Pages
 --- | --- | ---
 The Pragmatic Programmer 2nd Edition | Andrew Hunt, David Thomas | 152/497  
-The practice of Programming | Brian W. Kernihan, Rob Pike | 125.6/898  
 
 
 # ✔️ Finished Reading
@@ -20,6 +19,7 @@ Scrum - a arte de fazer o dobro do trabalho na metade do tempo | Jeff Sutherland
 14 Hábitos de Desenvolvedores Altamente Produtivos | Zeno Rocha | 106/106 | 5/5  
 C Notes for Professionals | many authors from StackOverflow | 342/342 | 4/5
 C++ Notes for Professionals | many authors from Stackoverflow | 708/708 | 3/5   
+The practice of Programming | Brian W. Kernihan, Rob Pike | 100%/100% | 4/5  
 
 # 🫗 Dropped
 
