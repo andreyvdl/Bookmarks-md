@@ -20,6 +20,7 @@ Scrum - a arte de fazer o dobro do trabalho na metade do tempo | Jeff Sutherland
 C Notes for Professionals | many authors from StackOverflow | 342/342 | 4/5
 C++ Notes for Professionals | many authors from Stackoverflow | 708/708 | 3/5  
 The practice of Programming | Brian W. Kernihan, Rob Pike | 100%/100% | 4/5  
+Effective C, 2nd Edition | Robert C. Seacord | 100%/100% | 5/5   
 
 # 🫗 Dropped
 
@@ -35,3 +36,4 @@ Arquitetura Limpa | Robert Martin | 50/435
 
 The Pragmatic Programmer   
 The Practice of Programming   
+Effective C, 2nd Edition   
