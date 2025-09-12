@@ -8,6 +8,7 @@ Name | Author | Pages
 Name | Author | Pages
 --- | --- | ---
 The Pragmatic Programmer 2nd Edition | Andrew Hunt, David Thomas | 152/497  
+The Mythical Man-Month: Essays on Software Engineering / Anniversary Edition | Frederick P. Brooks Jr. | 7%
 
 
 # ✔️ Finished Reading
